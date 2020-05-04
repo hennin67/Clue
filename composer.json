@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {"Clue\\": "lib/Clue"}
+    },
+    "require": {
+        "phpunit/phpunit": "6"
+    }
+}
